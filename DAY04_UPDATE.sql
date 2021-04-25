@@ -153,3 +153,6 @@
     WHERE urun_isim = 'Laptop';
     
     DROP TABLE tedarikciler;
+    
+    
+    ---------------------------------
